@@ -37,6 +37,12 @@ Production-ready serverless actors for mass data extraction without proxy headac
 
 ---
 
+## ⚡ Data Center & Energy
+
+* [DC Hub](https://github.com/azmartone67/dchub-mcp-server) — Live data layer for data-center site selection and the power, grid and energy behind it. Its Data Center Power Index (DCPI) scores grid power for data centers in 300+ markets. 94 MCP tools, free to start. Hosted endpoint: `https://dchub.cloud/mcp`. Official registry: `cloud.dchub/mcp-server`.
+
+---
+
 ## 🤝 Contributing
 
 PRs are welcome! If you built an MCP tool or agent actor that runs in production, feel free to submit a pull request.
