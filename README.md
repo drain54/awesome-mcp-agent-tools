@@ -27,6 +27,7 @@ Production-ready serverless actors for mass data extraction without proxy headac
 * [LinkedIn Jobs Real-time Scraper](https://apify.com/drain54/linkedin-jobs-scraper) — Track hiring surges & tech stack requirements with zero account risk.
 * [TikTok Trending Hashtags & Sound Scraper](https://apify.com/drain54/tiktok-trends-scraper) — Monitor emerging viral audio and hashtag spikes.
 * [Reddit Discussions & Sentiment Scraper](https://apify.com/drain54/reddit-discussions-scraper) — Extract consumer feedback & problem complaints across Reddit.
+* [No Stairs Please MCP](https://nostairsplease.com/mcp) — Search verified small live music venues, load-in notes, and booking contacts across all 50 US states ([nostairsplease.com](https://nostairsplease.com/)).
 
 ---
 
